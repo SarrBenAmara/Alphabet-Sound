@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<presentation guid="C295AD2E-EB81-4975-BB6C-C159897D3585" version="0" availableOffline="1">
+	<info>
+		<title>Alphabet sound</title>
+		<description/>
+	</info>
+	<files index="id49" thumbnail="id76" totalSize="12742383">
+		<file id="id0">data/slide1.js</file>
+		<file id="id1">data/slide1.css</file>
+		<file id="id2">data/quiz1.js</file>
+		<file id="id3">data/quiz1/audios/snd-17dd9c965ed897b339a1aeaca04134dd6075ab60.mp3</file>
+		<file id="id4">data/quiz1/audios/snd-2301269b021a6c47a34af283614d4dfdde240002.mp3</file>
+		<file id="id5">data/quiz1/audios/snd-3651d57e0b7a4413640fe0d74395204b6d4ae612.mp3</file>
+		<file id="id6">data/quiz1/audios/snd-3bcd7577db68d8a37992e8e42a12b37075beb41d.mp3</file>
+		<file id="id7">data/quiz1/audios/snd-4746a58df988d8cd3ab4767e6c04b992b0018217.mp3</file>
+		<file id="id8">data/quiz1/audios/snd-586ac19baffeab674b309f3887e69fc0e75c105d.mp3</file>
+		<file id="id9">data/quiz1/audios/snd-5879dec39fd0a25a3ff0a2242f8be478b14112bf.mp3</file>
+		<file id="id10">data/quiz1/audios/snd-77969c9978552c1435cd1c277397deb2a975e42b.mp3</file>
+		<file id="id11">data/quiz1/audios/snd-7ad5528fa1abc479d08853b994e029e49b7a88c1.mp3</file>
+		<file id="id12">data/quiz1/audios/snd-850118fda613fc98728b37208c82cb4c71daea9f.mp3</file>
+		<file id="id13">data/quiz1/audios/snd-8b1f048fc6b04a42e84814ed4396dd84172ccbaa.mp3</file>
+		<file id="id14">data/quiz1/audios/snd-9050c466186bdaf64008e48125c22fc8f3c37ae4.mp3</file>
+		<file id="id15">data/quiz1/audios/snd-924677cc4cf5bb7979d61384c224702f06e3705f.mp3</file>
+		<file id="id16">data/quiz1/audios/snd-93cf9e4e51a8b4419583d705ec74f4ecf693b62b.mp3</file>
+		<file id="id17">data/quiz1/audios/snd-9534af92d36c60e3382216c91030cedae109a4b7.mp3</file>
+		<file id="id18">data/quiz1/audios/snd-9c0684411b7cd58c78f8da02d69ff96476932ecf.mp3</file>
+		<file id="id19">data/quiz1/audios/snd-afbf300058f9ee7d6b10188a868e72bdf8b30708.mp3</file>
+		<file id="id20">data/quiz1/audios/snd-da8bab8e947b3203cb1a153ce9c9f7aa250011a4.mp3</file>
+		<file id="id21">data/quiz1/audios/snd-f0146c7bf0c8ee17bd578e3a9e40683cb11e1eab.mp3</file>
+		<file id="id22">data/quiz1/audios/snd-f2a2b69213c6d0e159136e03aafd549779a8282f.mp3</file>
+		<file id="id23">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id24">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id25">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id26">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id27">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id28">data/quiz1/images/img-0ec8762ede9f92a48531e565e5e7b55d0f9a8929.png</file>
+		<file id="id29">data/quiz1/images/img-0f629a53a28ef14cd993933a8eb159805b515db8.png</file>
+		<file id="id30">data/quiz1/images/img-2584b38ffbcb57c1b0299fa025d5dd97ab6e075f.png</file>
+		<file id="id31">data/quiz1/images/img-3429b7360c13188dba05a612c899b8bdd744eff1.png</file>
+		<file id="id32">data/quiz1/images/img-4b7e3138331c8b60d320565d9599ceb533dd1db2.png</file>
+		<file id="id33">data/quiz1/images/img-622f5c7efcb7dd23a425946d638791ca3f93ca96.png</file>
+		<file id="id34">data/quiz1/images/img-66d2e3cb0957256dab7363acc42fa7fe73abea36.png</file>
+		<file id="id35">data/quiz1/images/img-674107a97688c5b16072e35061a101e995ca94b3.png</file>
+		<file id="id36">data/quiz1/images/img-858896ff5c3e9e3f9b6bd04329a2aca0ddb44791.png</file>
+		<file id="id37">data/quiz1/images/img-9cdcc8ac972b3608b0f365faeccd1817daec5a98.png</file>
+		<file id="id38">data/quiz1/images/img-ade2d0bbd67b74ca7f587a1ae3bf92a59c2e2657.png</file>
+		<file id="id39">data/quiz1/images/img-c177ae6e997d4b30700f6f3435ee446400deb083.png</file>
+		<file id="id40">data/quiz1/images/img-c3169d37ff45256fb00d7b534e6db9ee230dae71.png</file>
+		<file id="id41">data/quiz1/images/img-d81f12af372b5ee848b92ff6766729559a2745ac.jpg</file>
+		<file id="id42">data/quiz1/images/img-dd703908a2ff5a60497ad0fa5c4dce1a19a88609.png</file>
+		<file id="id43">data/quiz1/images/img-e941659f5c13f1b96ee925ca1bee3712ab677f9f.png</file>
+		<file id="id44">data/quiz1/images/img-f5bc7232798de67d61cb2c2ddf5d2a299a27f61e.png</file>
+		<file id="id45">data/quiz1/images/img-f76fc51341b89abffe9be74ea0f9103cc97d4c87.png</file>
+		<file id="id46">data/quiz1/images/img-fac0d4fb5f529153ebb79266871064b64f39d956.png</file>
+		<file id="id47">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id48">data/quizplayer.js</file>
+		<file id="id49">index.html</file>
+		<file id="id50">data/player.js</file>
+		<file id="id55">data/browsersupport.js</file>
+		<file id="id56">data/apple-touch-icon.png</file>
+		<file id="id57">data/favicon.ico</file>
+		<file id="id58">data/fnt0.woff</file>
+		<file id="id59">data/fnt1.woff</file>
+		<file id="id60">data/fnt2.woff</file>
+		<file id="id61">data/fnt3.woff</file>
+		<file id="id62">data/fnt4.woff</file>
+		<file id="id63">data/fnt5.woff</file>
+		<file id="id64">data/fnt6.woff</file>
+		<file id="id65">data/fnt7.woff</file>
+		<file id="id66">data/fnt8.woff</file>
+		<file id="id67">data/html5-unsupported.html</file>
+		<file id="id68">data/html5.png</file>
+		<file id="id69">data/img0.png</file>
+		<file id="id70">data/img1.png</file>
+		<file id="id71">data/img2.png</file>
+		<file id="id72">data/img3.png</file>
+		<file id="id73">data/img4.png</file>
+		<file id="id74">data/img5.png</file>
+		<file id="id75">data/quiz_bg_0.png</file>
+		<file id="id76">data/ismplayer/preview.png</file>
+		<file id="id77">data/ismplayer/play.svg</file>
+		<file id="id78">data/ismplayer/style.css</file>
+		<file id="id79">data/ismplayer/style_mini.css</file>
+		<file id="id80">ismplayer.html</file>
+		<file id="id81">data/ismplayer/app_store2x.png</file>
+		<file id="id82">metainfo.xml</file>
+	</files>
+</presentation>
